@@ -3,7 +3,7 @@ import { getDocs, collection } from "firebase/firestore";
 import { db } from "@/services/firebaseConnection";
 import Head from "next/head";
 import Image from "next/image";
-import styles from '../styles/home.module.css';
+import styles from '@/styles/home.module.css';
 import heroImg from "../../public/assets/hero.png";
 
 interface HomeProps {
