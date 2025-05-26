@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAeayWl-pYwiiJt_QZmRgUJwwxjmAFCUCE",
+    apiKey: process.env.API_KEY,
     authDomain: "tarefas-plus-9b209.firebaseapp.com",
     projectId: "tarefas-plus-9b209",
     storageBucket: "tarefas-plus-9b209.firebasestorage.app",
