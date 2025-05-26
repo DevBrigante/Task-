@@ -35,10 +35,10 @@ Este é um projeto desenvolvido em **Next.js + TypeScript** que permite gerencia
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/task+.git
+git clone https://github.com/DevBrigante/Task-
 
 # Acesse a pasta do projeto
-cd task+
+cd task-
 
 # Instale as dependências
 npm install
